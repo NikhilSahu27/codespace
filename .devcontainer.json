@@ -26,8 +26,8 @@
     "image": "ghcr.io/cs50/codespace",
     "postCreateCommand": "/opt/cs50/bin/postCreateCommand",
     "remoteEnv": {
-        "CS50_GH_USER": "${localEnv:GITHUB_USER}",
-        "GH_TOKEN": "${localEnv:CS50_TOKEN}",
+        "CS50_GH_USER": "NikhilSahu27",
+        "GH_TOKEN": "SHA256:g6aA7gMjndSnejX3jvoCMxxSRI0Ru0k2Pi4uzlc0A/U",
         "TZ": "${localEnv:CS50_TZ}"
     },
     "settings": {
